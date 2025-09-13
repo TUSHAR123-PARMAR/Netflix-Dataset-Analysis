@@ -1,0 +1,2 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Sample Movie,John Doe,"Actor A, Actor B","United States","September 9, 2020",2020,PG-13,90 min,"Dramas, International Movies","Sample description."
